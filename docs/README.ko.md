@@ -1,5 +1,11 @@
 # Zed Globalization
 
+> [!IMPORTANT]
+> **저장소 이전 안내**: 원래 계정 `x6nux`가 정지되어 이 프로젝트는 2026-11-05에 [x6nux-oss/zed-globalization](https://github.com/x6nux-oss/zed-globalization)로 이전되었습니다. 기존 저장소 주소는 더 이상 유효하지 않습니다.
+> - 이전 버전의 자동 업데이트는 기존 저장소를 가리키므로 더 이상 업데이트를 받을 수 없습니다. 새 저장소의 [Releases](https://github.com/x6nux-oss/zed-globalization/releases/latest)에서 다시 설치해 주세요 (사용자 설정은 유지됩니다)
+> - Homebrew 사용자: `brew uninstall --cask zedg && brew untap x6nux/zedg && brew tap x6nux-oss/zedg && brew install --cask zedg`
+> - Scoop 사용자: `scoop bucket rm zedg && scoop bucket add zedg https://github.com/x6nux-oss/scoop-zedg`
+
 [![GitHub stars][stars-image]][stars-url]
 [![Github Downloads][download-image]][download-url]
 [![license][license-image]][license-url]

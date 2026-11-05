@@ -1,5 +1,11 @@
 # Zed Globalization — Zed 编辑器汉化版 / 中文版 / 多语言版
 
+> [!IMPORTANT]
+> **仓库迁移说明**：由于原账号 `x6nux` 被封禁，本项目已于 2026-11-05 迁移至 [x6nux-oss/zed-globalization](https://github.com/x6nux-oss/zed-globalization)，原仓库地址已失效。
+> - 旧版客户端内置的自动更新仍指向原仓库，无法再获取更新，请从新仓库 [Releases](https://github.com/x6nux-oss/zed-globalization/releases/latest) 重新下载安装（用户配置不受影响）
+> - Homebrew 用户：`brew uninstall --cask zedg && brew untap x6nux/zedg && brew tap x6nux-oss/zedg && brew install --cask zedg`
+> - Scoop 用户：`scoop bucket rm zedg && scoop bucket add zedg https://github.com/x6nux-oss/scoop-zedg`
+
 [![GitHub stars][stars-image]][stars-url]
 [![Github Downloads][download-image]][download-url]
 [![license][license-image]][license-url]
